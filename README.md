@@ -1,2 +1,2 @@
 # Documents
-All documents related to the project.
+All documents related to the project are placed here.
